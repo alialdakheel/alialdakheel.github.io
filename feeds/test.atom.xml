@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ali - Test</title><link href="https://alialdakheel.github.io/" rel="alternate"></link><link href="https://alialdakheel.github.io/feeds/test.atom.xml" rel="self"></link><id>https://alialdakheel.github.io/</id><updated>2020-10-10T00:00:00-04:00</updated><entry><title>Test post</title><link href="https://alialdakheel.github.io/test-post.html" rel="alternate"></link><published>2020-10-10T00:00:00-04:00</published><updated>2020-10-10T00:00:00-04:00</updated><author><name>Ali</name></author><id>tag:alialdakheel.github.io,2020-10-10:/test-post.html</id><summary type="html">&lt;p&gt;this is a test of summary&lt;/p&gt;</summary><content type="html">&lt;p&gt;My super title&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
+&lt;h1&gt;Test post&lt;/h1&gt;
+&lt;h2&gt;Pelican test&lt;/h2&gt;
+&lt;p&gt;twer asdfasdlfk n&lt;/p&gt;</content><category term="Test"></category></entry></feed>
